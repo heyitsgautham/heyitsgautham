@@ -7,7 +7,18 @@
 
 ---
 
-
+## Contents
+  
+- [Hi, I'm Gautham!](#hi-im-gautham)  
+- [My Achievements](#-my-achievements)  
+- [Certifications](#certifications)  
+- [Google Cloud Skill Boost](#google-cloud-skill-boost)  
+- [Projects](#projects)  
+- [Leetcode](#leetcode)  
+- [IITM](#iitm)  
+- [Languages and Tools](#-languages-and-tools)  
+- [Github Stats](#github-stats)  
+- [Connect With Me](#-connect-with-me)
 
 ## 🌟 My Achievements
  
