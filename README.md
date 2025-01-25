@@ -58,8 +58,11 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 
 Want to see more? Check out my [repositories](https://github.com/heyitsgautham).
 
+## Leetcode
 
+As a dedicated programmer, I've solved over 120 LeetCode problems, including Easy, Medium, and Hard levels. In the past year, I've made 386 submissions with a maximum streak of 25 days. Since *January 2025*, I've maintained a daily problem-solving streak, reflecting my commitment to continuous learning and growth.
 
+<img width="1436" alt="image" src="https://github.com/user-attachments/assets/1ecebc8a-12fe-42ac-88c8-ccfd399802c3" />
 
 ---
 
@@ -71,9 +74,6 @@ Want to see more? Check out my [repositories](https://github.com/heyitsgautham).
 ---
 
 ## 📈Github Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsgautham&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsgautham" /> </p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyitsgautham" alt="heyitsgautham" /></a> </p>
 
