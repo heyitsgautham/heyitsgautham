@@ -84,6 +84,8 @@ Want to see more? Check out my [repositories](https://github.com/heyitsgautham).
 
 As a dedicated programmer, I've solved over 120 LeetCode problems, including Easy, Medium, and Hard levels. In the past year, I've made 386 submissions with a maximum streak of 25 days. Since *January 2025*, I've maintained a daily problem-solving streak, reflecting my commitment to continuous learning and growth.
 
+Profile Link - [heyitsgautham](https://www.leetcode.com/heyitsgautham)
+
 <img width="1436" alt="image" src="https://github.com/user-attachments/assets/1ecebc8a-12fe-42ac-88c8-ccfd399802c3" />
 
 ---
