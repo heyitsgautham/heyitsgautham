@@ -70,21 +70,30 @@ Want to see more? Check out my [repositories](https://github.com/heyitsgautham).
 
 ---
 
+## 📈Github Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsgautham&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsgautham" /> </p>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyitsgautham" alt="heyitsgautham" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyitsgautham&show_icons=true&locale=en&layout=compact" alt="heyitsgautham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyitsgautham&show_icons=true&locale=en" alt="heyitsgautham" /></p>
 
 ---
 
 ## 🌐 Connect With Me
 Let’s collaborate and grow together!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heyitsgautham/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github)](https://github.com/heyitsgautham)  
+<p align="left">
+<a href="https://linkedin.com/in/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyitsgautham" height="30" width="40" /></a>
+<a href="https://kaggle.com/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="heyitsgautham" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyitsgautham" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyitsgautham" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/heyitsgautham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="heyitsgautham" height="30" width="40" /></a>
+</p>
 
 ---
-
-⭐️ **Star this repository** if you liked what you saw! Let's build something great together. 😊
-
 
 
 
