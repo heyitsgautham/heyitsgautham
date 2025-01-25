@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming, data science and machine learning!
 - 🌱 I’m currently learning Data Science at IIT Madras and Machine Learning at SEC
-- 💞️ I’m looking to collaborate on an "initially closed" source app that I'm developing, email if interested.
+- 💞️ I’m looking to constantly upskill myself
 - 📫 How to reach me heyitsgautham@gmail.com
 
 ---
