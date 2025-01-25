@@ -10,9 +10,11 @@
 
 
 ## 🌟 My Achievements
-I strongly believe in the power of knowledge. Here are some of my notable certifications:  
+ 
 
 ## Certifications
+
+I strongly believe in the power of knowledge. Here are some of my notable certifications: 
 
 | Certificate Name | Issuing Organization | Link |
 |-----------------|----------------------|-------------------|
@@ -27,6 +29,8 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 
 
 ## Google Cloud Skill Boost 
+
+Completed all the courses and badges in the Gen AI Bootcamp by Google Developers Group - IITM
 
 | Certificate Name | Link |
 |-----------------|-------------------|
