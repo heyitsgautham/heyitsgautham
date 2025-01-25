@@ -1,4 +1,4 @@
-## Hi, I'm Gautham! 👋
+# Hi, I'm Gautham! 👋
 
 - 👀 I’m interested in programming, data science and machine learning!
 - 🌱 I’m currently learning Data Science at IIT Madras and Machine Learning at SEC
@@ -9,7 +9,7 @@
 
 ## Contents
   
-- [Hi, I'm Gautham!](#hi-im-gautham)  
+- [Hi, I'm Gautham!](#hi-im-gautham-)   
 - [My Achievements](#-my-achievements)  
 - [Certifications](#certifications)  
 - [Google Cloud Skill Boost](#google-cloud-skill-boost)  
