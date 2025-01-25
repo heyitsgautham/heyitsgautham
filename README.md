@@ -23,7 +23,7 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 | SQL (Basics) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/fb27e6b58267) |
 | SQL (Intermediate) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/c245517dbe9e) |
 | Introduction to IoT | NPTEL | [Certificate](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS35S85340239230506012) |
-| Foundational Level - Data Science and Programming | CODE IIT Madras | [Certificate]() |
+| Foundational Level - Data Science and Programming | CODE IIT Madras | [Certificate](https://app.onlinedegree.iitm.ac.in/document_verification/79d1971785ddac7a7b13cc255edcd4e567d634acc5ca6f66d21359aa4e1dde9f) |
 
 
 ## Google Cloud Skill Boost 
@@ -65,6 +65,17 @@ As a dedicated programmer, I've solved over 120 LeetCode problems, including Eas
 <img width="1436" alt="image" src="https://github.com/user-attachments/assets/1ecebc8a-12fe-42ac-88c8-ccfd399802c3" />
 
 ---
+
+## IITM
+
+I am currently pursuing a BS in Programming and Data Science at IITM, with a CGPA of 9.38, and am set to complete *both diplomas* by the end of the next semester. I achieved the distinction of being the topper in 14 out of 16 courses completed. I am actively working on three projects, one in Machine Learning , Web Development and Business Data Management, aimed at enhancing my technical expertise. I completed my foundation program with a 9.5 cgpa.
+
+Profile Link: https://app.onlinedegree.iitm.ac.in/student/23F2000466#
+
+Badges I have collected in my BS Degree journey so far...
+
+<img width="1096" alt="image" src="https://github.com/user-attachments/assets/df30ffe4-57fd-4276-a869-54b27b91838e" />
+
 
 ## 🛠 Languages and Tools
 
