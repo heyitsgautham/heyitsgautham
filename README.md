@@ -71,16 +71,12 @@ Completed all the courses and badges in the Gen AI Bootcamp by Google Developers
 | Traffic Men | A web-based project aimed at enhancing traffic management through real-time data visualization with historic data through optimized scheduling and routing using ML model. | [Github](https://github.com/heyitsgautham/traffic-men) [Website](https://kishoreb.xyz/traffic-men.github.io/)  |
 | Earthquake Data Analysis | A comprehensive data analytical report focusing on earthquake monitoring, historical data analysis, and predictive ML model to aid disaster management and response planning. | [Github](https://github.com/heyitsgautham/Earthquake-Data-Analysis/blob/main/README.md)      [ML-1](https://colab.research.google.com/drive/1jk6S14j2MH2EYSf1CS7_MgkDeSE30Q7L#scrollTo=1o9B7cmztBz7) [ML-2](https://colab.research.google.com/drive/1NTSwlnJpMHsa6nAXwRCpV8hfS_RWaULT) |
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/fc0e4ca6-8969-42e9-a722-4149e2de4e77" alt="Traffic Men" style="width: 45%; height: auto;">
-    <p><b>Traffic Men</b></p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/30d3a7c5-3118-41b0-8a56-65e69033344b" alt="Earthquake Data Analysis" style="width: 45%; height: auto;">
-    <p><b>Earthquake Data Analysis</b></p>
-  </div>
-</div>
+| ![Traffic Men](https://github.com/user-attachments/assets/fc0e4ca6-8969-42e9-a722-4149e2de4e77) | ![Earthquake Data Analysis](https://github.com/user-attachments/assets/30d3a7c5-3118-41b0-8a56-65e69033344b) |
+|:---------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
+| **Traffic Men**                                                                                  | **Earthquake Data Analysis**                                                 
+
+![Screenshot 2024-12-31 232735](https://github.com/user-attachments/assets/bfc14206-1bbe-4b10-81ba-bf9fd799f176)
+              |
 
 Want to see more? Check out my [repositories](https://github.com/heyitsgautham).
 
