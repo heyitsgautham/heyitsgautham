@@ -30,7 +30,8 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 | Certificate Name | Issuing Organization | Link |
 |-----------------|----------------------|-------------------|
 | AWS Cloud Practitioner Essentials | Amazon Web Services (AWS) | [Certificate](https://www.coursera.org/account/accomplishments/verify/M907VLW65L3L) |
-| CS50's Introduction to Computer Science | CS50 | [Certificate](https://certificates.cs50.io/4fabb28f-532b-4ffa-b88f-aba762f93f3f.pdf?size=letter) |
+| CS50's Introduction to Computer Science | Harvard University | [Certificate](https://certificates.cs50.io/4fabb28f-532b-4ffa-b88f-aba762f93f3f.pdf?size=letter) |
+| Foundational Level - Data Science and Programming | IIT Madras | [Certificate](https://app.onlinedegree.iitm.ac.in/document_verification/79d1971785ddac7a7b13cc255edcd4e567d634acc5ca6f66d21359aa4e1dde9f) |
 | Goldman Sachs - Software Engineering Job Simulation | Forage | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_79KLHB2neaMdZg4g9_1727427529566_completion_certificate.pdf) |
 | CompTIA A+ 220-1002 | Skillsoft | [Certificate](https://www.credential.net/c859392e-0394-4071-890d-27e0cdfbb09e#acc.xDJASgcL) |
 | Android Application Development | Great Learning | [Certificate](https://www.mygreatlearning.com/certificate/LHKGHNND) |
@@ -38,12 +39,12 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 | SQL (Basics) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/fb27e6b58267) |
 | SQL (Intermediate) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/c245517dbe9e) |
 | Introduction to IoT | NPTEL | [Certificate](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS35S85340239230506012) |
-| Foundational Level - Data Science and Programming | CODE IIT Madras | [Certificate](https://app.onlinedegree.iitm.ac.in/document_verification/79d1971785ddac7a7b13cc255edcd4e567d634acc5ca6f66d21359aa4e1dde9f) |
+
 
 
 ## Google Cloud Skill Boost 
 
-Completed all the courses and badges in the Gen AI Bootcamp by Google Developers Group (GDG) - IITM
+Completed all the courses and badges in the Gen AI Bootcamp by **Google Developers Group (GDG) - IITM**
 
 | Certificate Name | Link |
 |-----------------|-------------------|
@@ -82,9 +83,9 @@ Want to see more? Check out my [repositories](https://github.com/heyitsgautham).
 
 ## Leetcode
 
-As a dedicated programmer, I've solved over 120 LeetCode problems, including Easy, Medium, and Hard levels. In the past year, I've made 386 submissions with a maximum streak of 25 days. Since *January 2025*, I've maintained a daily problem-solving streak, reflecting my commitment to continuous learning and growth.
+As a dedicated programmer, I've solved over 120 LeetCode problems, including Easy, Medium, and Hard levels. In the past year, I've made 386 submissions with a maximum streak of 25 days. Since **January 2025**, I've maintained a daily problem-solving streak, reflecting my commitment to continuous learning and growth.
 
-Profile Link - [heyitsgautham](https://www.leetcode.com/heyitsgautham)
+Profile Link: [heyitsgautham](https://www.leetcode.com/heyitsgautham)
 
 <img width="1436" alt="image" src="https://github.com/user-attachments/assets/1ecebc8a-12fe-42ac-88c8-ccfd399802c3" />
 
@@ -92,7 +93,7 @@ Profile Link - [heyitsgautham](https://www.leetcode.com/heyitsgautham)
 
 ## IITM
 
-I am currently pursuing a BS in Programming and Data Science at IITM, with a CGPA of 9.38, and am set to complete *both diplomas* by the end of the next semester. I achieved the distinction of being the topper in 14 out of 16 courses completed. I am actively working on three projects, one in Machine Learning , Web Development and Business Data Management, aimed at enhancing my technical expertise. I completed my foundation program with a 9.5 cgpa.
+I am currently pursuing a BS in Programming and Data Science at IITM, with a CGPA of **9.38**, and am set to complete *both diplomas* by the end of the next semester. I achieved the distinction of being the topper in 14 out of 16 courses completed. I am actively working on three projects, one in Machine Learning , Web Development and Business Data Management, aimed at enhancing my technical expertise. I completed my foundation program with a CGPA of **9.5**.
 
 Profile Link: https://app.onlinedegree.iitm.ac.in/student/23F2000466#
 
