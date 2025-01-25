@@ -32,6 +32,8 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 | AWS Cloud Practitioner Essentials | Amazon Web Services (AWS) | [Certificate](https://www.coursera.org/account/accomplishments/verify/M907VLW65L3L) |
 | CS50's Introduction to Computer Science | CS50 | [Certificate](https://certificates.cs50.io/4fabb28f-532b-4ffa-b88f-aba762f93f3f.pdf?size=letter) |
 | Goldman Sachs - Software Engineering Job Simulation | Forage | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_79KLHB2neaMdZg4g9_1727427529566_completion_certificate.pdf) |
+| CompTIA A+ 220-1002 | Skillsoft | [Certificate](https://www.credential.net/c859392e-0394-4071-890d-27e0cdfbb09e#acc.xDJASgcL) |
+| Android Application Development | Great Learning | [Certificate](https://www.mygreatlearning.com/certificate/LHKGHNND) |
 | Python (Basic) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/983902b3234b) |
 | SQL (Basics) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/fb27e6b58267) |
 | SQL (Intermediate) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/c245517dbe9e) |
