@@ -46,6 +46,8 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 
 Completed all the courses and badges in the Gen AI Bootcamp by **Google Developers Group (GDG) - IITM**
 
+[Cloud Skill Profile](https://www.cloudskillsboost.google/public_profiles/d80160d2-86d8-4b55-82e1-c02fcedf7e3b)
+
 | Certificate Name | Link |
 |-----------------|-------------------|
 | The Basics of Google Cloud Compute | [Certificate](https://www.cloudskillsboost.google/public_profiles/d80160d2-86d8-4b55-82e1-c02fcedf7e3b/badges/12202722) |
