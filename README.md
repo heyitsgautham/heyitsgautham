@@ -95,7 +95,7 @@ Profile Link: [heyitsgautham](https://www.leetcode.com/heyitsgautham)
 
 ## IITM
 
-I am currently pursuing a BS in Programming and Data Science at IITM, with a CGPA of **9.38**, and am set to complete *both diplomas* by the end of the next semester. I achieved the distinction of being the topper in 14 out of 16 courses completed. I am actively working on three projects, one in Machine Learning , Web Development and Business Data Management, aimed at enhancing my technical expertise. I completed my foundation program with a CGPA of **9.5**.
+I am currently pursuing a BS in Programming and Data Science at IITM, with a CGPA of **9.38**, and am set to complete *both diplomas* (Diplomo in Programming and Diplomo in Data Science) by the end of the next semester. I achieved the distinction of being the topper in 14 out of 16 courses completed. I am actively working on three projects, one in Machine Learning , Web Development and Business Data Management, aimed at enhancing my technical expertise. I completed my foundation program with a CGPA of **9.5**.
 
 Profile Link: https://app.onlinedegree.iitm.ac.in/student/23F2000466#
 
