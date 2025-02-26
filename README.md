@@ -38,6 +38,7 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 | SQL (Basics) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/fb27e6b58267) |
 | SQL (Intermediate) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/c245517dbe9e) |
 | Introduction to IoT | NPTEL | [Certificate](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS35S85340239230506012) |
+
 | Certificate Name | Link |
 |-----------------|-------------------|
 | The Basics of Google Cloud Compute | [Certificate](https://www.cloudskillsboost.google/public_profiles/d80160d2-86d8-4b55-82e1-c02fcedf7e3b/badges/12202722) |
