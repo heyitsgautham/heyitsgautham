@@ -1,14 +1,19 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsgautham&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsgautham" /> </p>
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
+</p>
 
-# Hi, I'm Gautham Krishna S! 👋
+<h1 align="center"><b>Hi, I'm Gautham Krishna S!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**SIH'25 Finalist | Software Engineer Intern @ Presidio (Sep–Nov '25) | BS in Programming & Data Science @ IIT Madras | BTech AI&ML in SEC**
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;AI+Engineer;3x+National+Hackathon+Finalist;Dual+Degree+Student"></a>
+</p>
 
-Building intelligent systems with LLMs, RAG, and ML. Currently focused on AI projects and full-stack development.
-
-📫 **Contact:** heyitsgautham@gmail.com
-
-
+- 🏆 **SIH'25 Finalist** – Smart India Hackathon
+- 💼 **Software Engineer Intern @ Presidio** (Sep–Nov '25)
+- 🎓 **BS in Programming & Data Science** @ IIT Madras
+- 🎓 **BTech in AI & ML** @ SEC
+- 🤖 Building intelligent systems with **LLMs, RAG, DL and ML**
+- 🚀 Focused on **AI projects** and **full-stack development** with cloud integrations
 
 ## 🛠 &nbsp;Tech Stack
 
