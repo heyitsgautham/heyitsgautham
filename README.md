@@ -80,10 +80,12 @@
 
 ---
 
+
+
+## 🐍 &nbsp;Contribution Graph
+
 <div align="center">
-
-## 🐍 Contribution Graph
-
+  
 <img src="https://github.com/heyitsgautham/heyitsgautham/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 
 </div>
