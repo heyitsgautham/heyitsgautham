@@ -14,6 +14,7 @@
 - 🎓 **BTech in AI & ML** @ SEC
 - 🤖 Building intelligent systems with **LLMs, RAG, DL and ML**
 - 🚀 Focused on **AI projects** and **full-stack development** with cloud integrations
+- 📚 Most academic and experimental work lives in **private repositories**
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -27,7 +28,7 @@
 </span>
 <br>
 
-#### 🎨 Front-end
+#### 🎨 Frontend
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,7 +41,7 @@
 </span>
 <br>
 
-#### ⚙️ Back-end
+#### ⚙️ Backend
 <span>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
