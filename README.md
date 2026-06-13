@@ -9,16 +9,18 @@
 </p>
 
 - 🏆 **SIH'25 Finalist** – Smart India Hackathon
+- 💼 **Software Engineer Intern @ Lokam.ai** (Mar '26 – Present)
 - 💼 **Software Engineer Intern @ Presidio** (Sep–Nov '25)
 - 🎓 **BS in Programming & Data Science** @ IIT Madras
 - 🎓 **BTech in AI & ML** @ SEC
-- 🤖 Building intelligent systems with **LLMs, RAG, DL and ML**
+- 🤖 Building intelligent systems with **Voice AI, LLMs, RAG, DL and ML**
 - 🚀 Focused on **AI projects** and **full-stack development** with cloud integrations
 - 📚 Most academic and experimental work lives in **private repositories**
 
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
+
 <span>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -29,6 +31,7 @@
 <br>
 
 #### 🎨 Frontend
+
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,6 +45,7 @@
 <br>
 
 #### ⚙️ Backend
+
 <span>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -54,6 +58,7 @@
 <br>
 
 #### 🤖 AI/ML
+
 <span>
   <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -68,6 +73,7 @@
 <br>
 
 #### ☁️ Cloud & Tools
+
 <span>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -80,8 +86,6 @@
 <br>
 
 ---
-
-
 
 ## 🐍 &nbsp;Contribution Graph
 
