@@ -9,8 +9,9 @@
 </p>
 
 - 🏆 **SIH'25 Finalist** – Smart India Hackathon
-- 💼 **Software Engineer Intern @ Lokam.ai** (Mar '26 – Present)
-- 💼 **Software Engineer Intern @ Presidio** (Sep–Nov '25)
+- 💼 **Software Engineer @ Lokam.ai** (Jul '26 – Present)
+- 💼 **Software Engineer Intern @ Lokam.ai** (Mar – Jun '26)
+- 💼 **Software Engineer Intern @ Presidio** (Sep – Nov '25)
 - 🎓 **BS in Programming & Data Science** @ IIT Madras
 - 🎓 **BTech in AI & ML** @ SEC
 - 🤖 Building intelligent systems with **Voice AI, LLMs, RAG, DL and ML**
